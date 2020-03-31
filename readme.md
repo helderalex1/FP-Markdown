@@ -16,7 +16,3 @@ Numero do Estudante
 
 [1]:
 images.png
-
-![]
-
-(images.png)
