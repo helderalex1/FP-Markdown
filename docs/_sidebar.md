@@ -1,2 +1,0 @@
-* [Home](/)
-* [Sobre](sobre.md)
