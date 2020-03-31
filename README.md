@@ -4,7 +4,7 @@ Numero do Estudante
 
 `Numero do Estudante`
 
-**Linguagens de programção conhecidas:**
+**Linguagens de programação conhecidas:**
 
 - C
 - JavaScript
