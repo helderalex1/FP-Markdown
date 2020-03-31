@@ -1,19 +1,14 @@
-**FP-Markdown**
----
-Numero do Estudante
+# FP8-Markdown
 
-`Numero do Estudante`
+ Marcos Ferreira\
+    2190779
 
-**Linguagens de programção conhecidas:**
+## Linguagens de programação conhecidas:
+   - C
+   - JavaScript
+   - Python
+   - ...
 
-- C
-- JavaScript
-- Python
-- ...
----
-> Metedeologias de desenvolvimento de Software @2020
+   > Metodologias e Desenvolvimento de Software @ 2020
 
-![Logo][1]
-
-[1]:
-https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png
+![Image](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)	
