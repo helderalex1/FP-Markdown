@@ -1,2 +1,2 @@
 **FP-Markdown**
-Horizontal Rule
+---
