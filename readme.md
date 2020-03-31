@@ -8,3 +8,6 @@ Numero do Estudante
 - C
 - JavaScript
 - Python
+- ...
+---
+> Metedeologias de desenvolvimento de Software @2020
